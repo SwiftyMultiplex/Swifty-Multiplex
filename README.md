@@ -6,6 +6,7 @@ For now its a Shortcut, Go to Releases and Download the most recent Release. You
 
 ## Questions or Suggestions?
 Join the Discord! And make a thread in either the #questions or #suggestions
+Discord Link: https://discord.gg/JC4ZjGJtFv
 
 ## Need any Help?
 Email swiftymultiplex@gmail.com with what you need help with.
